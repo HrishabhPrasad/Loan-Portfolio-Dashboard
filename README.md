@@ -8,6 +8,16 @@ in an interactive **Power BI** dashboard backed by **MySQL** and **SQL**.
 
 ---
 
+## Dashboard
+
+![Credit Risk Dashboard built in Power BI](dashboard.png)
+
+*Interactive Power BI dashboard: KPI cards (total loans, default rate, avg loan),
+default-rate breakdowns by credit grade, loan purpose, and interest-rate band, a
+High/Medium/Low risk-segment donut, and slicers for risk segment and loan term.*
+
+---
+
 ## 1. Problem
 
 Lenders need to know which loans are likely to **default** (be "charged off") so
